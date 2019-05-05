@@ -1,0 +1,55 @@
+.img-circle {
+	border-radius: 50%;
+}
+.texto {
+	display: table-cell;
+	float: left;
+	width: 950px;
+}
+.imagem {
+	float: right;
+	display: table-cell;
+}
+.imagem2 {
+	margin-bottom: 20px;
+	margin-left: 50px;
+	float: left;
+	display: table-cell;
+}
+.conteudo {
+	display: table;
+	border-color: 606060;
+	border-width: 2px;
+	border-style: solid;
+	border-radius: 20px;
+	margin: 20px; 
+	width: 75%;
+	background-color: #eeeeee;
+}
+#cabecario {
+	color: white;
+	padding-bottom: 30px;
+	width: 100%;
+	background-image: linear-gradient(to right, rgb(120, 120, 120) , rgb(60, 60, 60));
+	text-align: center;
+}
+#rodape {
+	color: white;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	background-image: linear-gradient(to right, rgb(120, 120, 120) , rgb(60, 60, 60));
+	text-align: center;
+}
+a{
+	padding:  5px 30px;
+	background: white;
+	color: black;
+	text-decoration: none;
+}
+a:visited{	
+	color: black;	
+}
+a:hover{
+	background: #909090;
+}	
